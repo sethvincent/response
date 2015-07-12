@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "mime": "~1.2.11",
-    "bl": "~0.7.0",
+    "bl": "~1.0.0",
     "caseless": "^0.3.0",
     "best-encoding": "^0.1.1"
   },
